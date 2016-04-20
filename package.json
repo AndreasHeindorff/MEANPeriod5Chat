@@ -1,0 +1,12 @@
+{
+  "name": "mean",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "dependencies": {
+    "express": "*",
+    "jade": "*",
+    "mongoose": "^4.4.12",
+    "socket.io": "*"
+  }
+}
